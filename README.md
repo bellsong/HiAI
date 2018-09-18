@@ -1,2 +1,2 @@
 # HiAI
-Knowlege About Ai
+Knowlege About AI
