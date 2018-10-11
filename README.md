@@ -1,6 +1,7 @@
 # HiAI
 Knowlege About AI
 
+<<<<<<< HEAD
 ## 概念
 
 推荐看一下 [天建行的知乎专栏《AI从入门到xx》](https://zhuanlan.zhihu.com/AInewdriver)
@@ -83,3 +84,12 @@ AI产品经理修炼之路
 ## 可能面临问题
 1. 各大厂商各自智能家居入口兼容问题
 2. 用户私隐问题
+=======
+## 人工智能实验室
+[人工智能实验室](./ailab/README.md)
+
+## 参考
+[世界人工智能大会召开：BAT 同台辩 AI，微软亚马逊争相落“沪”（附演讲全文）](https://www.leiphone.com/news/201809/wgxFD8Xn4pAwXUm7.html)
+
+[如何评价 2018 百度 AI 开发者大会？](https://www.zhihu.com/question/280042609/answer/434855921)
+>>>>>>> dev
