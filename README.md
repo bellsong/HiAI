@@ -3,6 +3,10 @@ Knowlege About AI
 
 ## 概念
 
+推荐看一下 [天建行的知乎专栏《AI从入门到xx》](https://zhuanlan.zhihu.com/AInewdriver)
+
+[CUI三部曲之语音识别——机器如何听懂你的话？](https://zhuanlan.zhihu.com/p/27739637)
+
 ## 产品形态
 * 智能音箱
 * 智能家电
@@ -15,13 +19,13 @@ Knowlege About AI
 
 AI产品经理修炼之路
 
-应用：自动驾驶、安防、医疗、农业、金融
+1. 应用：自动驾驶、安防、医疗、农业、金融
 
-基础技术：ML(Machine Learning)、DL（Deep Learning）、NLP（Nature Launguage Process 自然语言处理） NLU（自然语言分析）CV、MV、ASR、TTS（语言合成）
+2. 基础技术：ML(Machine Learning)、DL（Deep Learning）、NLP（Nature Launguage Process 自然语言处理） NLU（自然语言分析）CV、MV、ASR、TTS（语言合成）
 
-机器学习理论：机器学习和深度学习技术
+3. 机器学习理论：机器学习和深度学习技术
 
-数据基础：微积分、线性代数、概率与数理分析
+4. 数据基础：微积分、线性代数、概率与数理分析
 
 [关于AI学习方法的思考——产品经理入门人工智能](https://36kr.com/p/5095750.html)
 
