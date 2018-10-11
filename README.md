@@ -7,8 +7,14 @@ Knowlege About AI
 
 [CUI三部曲之语音识别——机器如何听懂你的话？](https://zhuanlan.zhihu.com/p/27739637)
 
+[CUI三部曲之自然语言处理——机器如何理解你的话？](https://zhuanlan.zhihu.com/p/27968865)
+
+[CUI三部曲之语音合成——机器如何回答你的话？](https://zhuanlan.zhihu.com/p/28271997)
+
+
 ## 产品形态
 * 智能音箱
+    [亲测89元小度智能音箱，这或许是国民级智能音箱应有的姿态](https://zhuanlan.zhihu.com/p/38030162)
 * 智能家电
 
 ## 生态
@@ -16,6 +22,8 @@ Knowlege About AI
 ## 业务大图
 
 ## 学习路线
+
+[人工智能“六步走”学习路线](https://blog.csdn.net/isuccess88/article/details/54588131)
 
 AI产品经理修炼之路
 
@@ -54,6 +62,10 @@ AI产品经理修炼之路
 
 [动动嘴搞定一切 有个语音控制就叫AI了？](https://t.cj.sina.com.cn/articles/view/6663957329/18d33eb5100100bwc0?cre=tianyi&mod=pcpager_tech&loc=10&r=9&doct=0&rfunc=23&tj=none&tr=9)
 
+[百度、谷歌、亚马逊、微软神同步：被盯上的智能语音排位赛](http://ai.ofweek.com/news/2018-05/ART-201721-8420-30235865.html)
+
+[深度｜Google与Amazon 在智能音箱界的全球野心](https://m.iyiou.com/p/75670)
+
 ## 技术点
 
 ### 识别技术
@@ -68,3 +80,6 @@ AI产品经理修炼之路
 
 ### AR技术
 
+## 可能面临问题
+1. 各大厂商各自智能家居入口兼容问题
+2. 用户私隐问题
