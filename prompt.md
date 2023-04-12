@@ -42,6 +42,12 @@ https://prompthero.com
 
 https://www.diprompt.com/#/
 
+https://prompthero.com/stable-diffusion-prompts
+
+https://learnprompting.org/docs/Images/midjourney
+
+
+
 
 
 
