@@ -6,44 +6,23 @@ Y 的人工智能学习笔记，记录学习过程中遇到的问题,以及我�
 
 ******
 
-## [从入门到放弃]()
+## [AI 发展历程]()
 
-* 基础篇
+* 时间线
    
-* 进阶篇    
+* 关键人物
+
+* 关键事件
 
 ******
 
-## TODO
+## [AI 工具]()
 
-******
-
-## [教程类]()
-
-******
-
-## [AI 领域人物]()
-
-******
-
-## [AI 领域](./ai_job.md)
-
-******
-
-## [AI 书籍](./ai_book.md)
-
-******
-
-
-# Hi AI
-
-## AI 聊天
+### AI 聊天
 
 [ChatGPT](./ChatGPT.md)
 
-## AI 绘画
-
-### [Disco Diffusion](./Disco_Diffusion.md)
+### [AI 绘画-Disco Diffusion](./Disco_Diffusion.md)
 
 简介:这是一款最早流行起来的AI绘图工具，直接在谷歌云端运行的程序，对电脑配置没有要求，用浏览器就可以操作。
 
@@ -91,7 +70,6 @@ OpenAI推出 DALL·E 2, DALL-E 2实现了更高分辨率和更低延迟，而且
 
 工具网址:https://openai.com/dall-e-2/
 
-
 ### [Stable Diffusion](./Stable_Diffusion.md)
 
 stability.ai 推出 Stable-Diffusion并且开源了
@@ -108,6 +86,23 @@ Stable-Diffusion 免费、生成速度又快，每一次生成的效果图就像
 
 ## [关键之匙 Prompt](./prompt.md)
 
+******
+
+## [教程类]()
+
+******
+
+## [AI 领域人物]()
+
+******
+
+## [AI 领域工作](./ai_job.md)
+
+******
+
+## [AI 书籍](./ai_book.md)
+
+******
 
 ## AI 创业思路
 
