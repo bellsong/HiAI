@@ -22,7 +22,14 @@ Y 的人工智能学习笔记，记录学习过程中遇到的问题,以及我�
 
 [ChatGPT](./ChatGPT.md)
 
-### [AI 绘画-Disco Diffusion](./Disco_Diffusion.md)
+### [AI 绘画——Stable Diffusion](./Stable_Diffusion.md)
+
+stability.ai 推出 Stable-Diffusion并且开源了
+一经推出就受到广大网友的喜爱，操作简单，出图快，平均10-20秒。
+
+Stable-Diffusion 免费、生成速度又快，每一次生成的效果图就像是开盲盒一样，需要不断尝试打磨，所以大家都疯狂似的开始玩耍，甚至连特斯拉的前人工智能和自动驾驶视觉总监 Andrej Karpathy 都沉迷于此。
+
+### [AI 绘画——Disco Diffusion](./Disco_Diffusion.md)
 
 简介:这是一款最早流行起来的AI绘图工具，直接在谷歌云端运行的程序，对电脑配置没有要求，用浏览器就可以操作。
 
@@ -37,7 +44,7 @@ Disco Diffusion 是完全免费开源的工具，遵循MIT开源协议，这意�
 
 工具网址:github.com/alembics/disco-diffusion
 
-### [Midjourney](./Midjourney.md)
+### [AI 绘画——Midjourney](./Midjourney.md)
 
 简介:Midjourney 是一款输入文字就可以生成高质量图像的 AI 画画软件，速度达到1分钟出4张图，因为 Midjourney 搭载在 Discord 频道上，所以有非常良好的社区讨论环境。
 
@@ -53,7 +60,7 @@ Midjourney 对 Disco Diffusion 进行了改进，平均1分钟能出图。
 
 公测网址:https://discord.com/invite/midjourney
 
-三、DALL·E2
+### [AI 绘画——DALL·E2]()
 
 简介:由 OpenAI 开发的 AI 绘画工具。几分钟能用这款工具创建高度逼真的图像。OpenAI 称，该工具可用于创建插图、设计产品并为业务产生新想法。
 
@@ -70,19 +77,13 @@ OpenAI推出 DALL·E 2, DALL-E 2实现了更高分辨率和更低延迟，而且
 
 工具网址:https://openai.com/dall-e-2/
 
-### [Stable Diffusion](./Stable_Diffusion.md)
-
-stability.ai 推出 Stable-Diffusion并且开源了
-一经推出就受到广大网友的喜爱，操作简单，出图快，平均10-20秒。
-
-Stable-Diffusion 免费、生成速度又快，每一次生成的效果图就像是开盲盒一样，需要不断尝试打磨，所以大家都疯狂似的开始玩耍，甚至连特斯拉的前人工智能和自动驾驶视觉总监 Andrej Karpathy 都沉迷于此。
-
-
 ### [AI 绘图网站汇总](./AI_image.MD)
 
 ### 各大绘图网站对比
 
 ![image](./assert/VS.png)
+
+******
 
 ## [关键之匙 Prompt](./prompt.md)
 
@@ -125,6 +126,7 @@ Stable-Diffusion 免费、生成速度又快，每一次生成的效果图就像
 
 上述所有工具操作的教程
 
+******
 
 ## 参考
 
